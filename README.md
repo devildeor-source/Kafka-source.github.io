@@ -1,4 +1,4 @@
-<script>
+ <script>
     const chatArea = document.querySelector('section');
     const textarea = document.querySelector('textarea');
     const sendBtn = document.querySelector('button');
